@@ -29,10 +29,7 @@ Have a look at some of my (public) projects:
 - And many more...
 
 
-
-
-
-
+<br><br><br>
 
 <details>
   <summary><b>🚀 Tech Stack</b></summary>
