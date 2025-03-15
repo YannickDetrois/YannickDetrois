@@ -18,6 +18,9 @@ __/\\\________/\\\______________________________________________________________
 
 <h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn exciting and useful things, like forecasting, writing or simulating. I also enjoy analysing data to better understand our world! </h3>
 
+Have a look at some of my (public) projects:
+- The top-10 EPFL Applied Data Analysis course project: /[LinkedIn Profile](https://yannickdetrois.github.io/epfl-ada-datastory)
+
 <div align="left">
 <details>
   <summary><b>🚀 Tech Stack</b></summary>
@@ -88,7 +91,7 @@ __/\\\________/\\\______________________________________________________________
   [yannick.detrois@outlook.de](mailto:yannick.detrois@outlook.de)
   
   **LinkedIn:**  
-  [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/yannick-detrois-432267256/))
+  [LinkedIn Profile](https://www.linkedin.com/in/yannick-detrois-432267256/)
   
 </details>
 </div>
