@@ -78,3 +78,17 @@ __/\\\________/\\\______________________________________________________________
   
   </div>
 </details>
+
+
+<details>
+  <summary><b>📫 Contact Me</b></summary>
+  
+  You can reach out to me through the following:
+
+  **Email:**  
+  [your-email@example.com](mailto:your-email@example.com)
+  
+  **LinkedIn:**  
+  [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+  
+</details>
