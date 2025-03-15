@@ -1,8 +1,8 @@
 <h1 align="center">Greetings passerby, I'm </h1>
 
 <div align="center">
+ 
 ```
-
 __/\\\________/\\\______________________________________________________________________________        
  _\///\\\____/\\\/__________________________________________________________________/\\\_________       
   ___\///\\\/\\\/________________________________________________/\\\_______________\/\\\_________      
@@ -14,6 +14,7 @@ __/\\\________/\\\______________________________________________________________
         _______\///_________\////////\//__\///____\///__\///____\///__\///_____\////////__\///____\///__
 
 ```
+
 </div>                                                                         
 
 <h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines ⚙️ to learn exciting and useful things, like forecasting 📈, writing 🖋️ or simulating 🎲. I also enjoy analysing data and think about theory to better understand our world! </h3>
