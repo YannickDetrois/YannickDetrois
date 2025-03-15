@@ -17,7 +17,8 @@ __/\\\________/\\\______________________________________________________________
                                                                            
 
 <h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn exciting and useful things, like forecasting, writing or simulating. I also enjoy analysing data to better understand our world! </h3>
-\_
+
+
 
 <div align="left">
   
@@ -27,8 +28,11 @@ Have a look at some of my (public) projects:
 - Neuronal simulations using Poisson processes: [Bump Attractors](https://github.com/YannickDetrois/Bump_Attractors)
 - And many more...
 
-\_
-\_
+
+
+
+
+
 
 <details>
   <summary><b>🚀 Tech Stack</b></summary>
