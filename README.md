@@ -18,7 +18,7 @@ __/\\\________/\\\______________________________________________________________
 
 <h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn cool, useful and exciting things. I also enjoy analysing data to better understand our world! </h3>
 
-<div align="center">
+<div align="left">
 <details>
   <summary><b>🚀 Tech Stack</b></summary>
   <table>
