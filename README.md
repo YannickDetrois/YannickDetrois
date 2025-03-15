@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello passerby, I'm </h1>
+<h1 align="center">Hello amiable passerby, I'm </h1>
   
 ```
 
@@ -19,7 +19,7 @@ __/\\\________/\\\______________________________________________________________
 <h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn exciting and useful things, like forecasting, writing or simulating. I also enjoy analysing data to better understand our world! </h3>
 
 Have a look at some of my (public) projects:
-- The top-10 EPFL Applied Data Analysis course project: /[LinkedIn Profile](https://yannickdetrois.github.io/epfl-ada-datastory)
+- The top-10 EPFL Applied Data Analysis course project: [Website](https://yannickdetrois.github.io/epfl-ada-datastory)
 
 <div align="left">
 <details>
