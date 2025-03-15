@@ -16,7 +16,7 @@ __/\\\________/\\\______________________________________________________________
 ```
                                                                            
 
-<h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn cool, useful and exciting things. I also enjoy analysing data to better understand our world! </h3>
+<h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn exciting and useful things, like forecasting, writing or simulating. I also enjoy analysing data to better understand our world! </h3>
 
 <div align="left">
 <details>
@@ -85,10 +85,10 @@ __/\\\________/\\\______________________________________________________________
   You can reach out to me through the following:
 
   **Email:**  
-  [your-email@example.com](mailto:your-email@example.com)
+  [yannick.detrois@outlook.de](mailto:yannick.detrois@outlook.de)
   
   **LinkedIn:**  
-  [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+  [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/yannick-detrois-432267256/))
   
 </details>
 </div>
