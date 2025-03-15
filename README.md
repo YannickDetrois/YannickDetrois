@@ -1,11 +1,11 @@
 <div align="center">
 <h1 align="center">Hello passerby, I'm </h1>
   
- __  __     ______     __   __     __   __     __     ______     __  __    
+``` __  __     ______     __   __     __   __     __     ______     __  __    
 /\ \_\ \   /\  __ \   /\ "-.\ \   /\ "-.\ \   /\ \   /\  ___\   /\ \/ /    
 \ \____ \  \ \  __ \  \ \ \-.  \  \ \ \-.  \  \ \ \  \ \ \____  \ \  _"-.  
  \/\_____\  \ \_\ \_\  \ \_\\"\_\  \ \_\\"\_\  \ \_\  \ \_____\  \ \_\ \_\ 
-  \/_____/   \/_/\/_/   \/_/ \/_/   \/_/ \/_/   \/_/   \/_____/   \/_/\/_/ 
+  \/_____/   \/_/\/_/   \/_/ \/_/   \/_/ \/_/   \/_/   \/_____/   \/_/\/_/ ```
                                                                            
 
 <h4 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn cool, useful and exciting things. I also enjoy analysing data to better understand our world! </h4>
