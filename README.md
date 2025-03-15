@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello passerby, I'm Yannick :D</h1>
-<h4 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn cool things and understand how they do so. </h4>
+<h4 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn cool, useful and exciting things. I also enjoy analysing data to better understand our world! </h4>
 
 <div align="center">
 
