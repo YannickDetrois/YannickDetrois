@@ -18,10 +18,14 @@ __/\\\________/\\\______________________________________________________________
 
 <h3 align="center">I am a MSc student in Computational Science and Engineering at EPFL trying to get machines to learn exciting and useful things, like forecasting, writing or simulating. I also enjoy analysing data to better understand our world! </h3>
 
-Have a look at some of my (public) projects:
-- The top-10 EPFL Applied Data Analysis course project: [Website](https://yannickdetrois.github.io/epfl-ada-datastory)
-
 <div align="left">
+  
+Have a look at some of my (public) projects:
+- The top-10 EPFL Applied Data Analysis course project: [Datastory Website](https://yannickdetrois.github.io/epfl-ada-datastory)
+- A theoretical summary of most common ML techniques: [ML Notes](https://yannickdetrois.github.io/ML2023_notes/)
+- Neuronal simulations using Poisson processes: [Bump Attractors](https://github.com/YannickDetrois/Bump_Attractors)
+- And many more...
+
 <details>
   <summary><b>🚀 Tech Stack</b></summary>
   <table>
